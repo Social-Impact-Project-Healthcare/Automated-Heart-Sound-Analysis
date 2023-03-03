@@ -154,6 +154,13 @@ classification_model.fit(X_train,y_train,
 ## Evaluate the Performance
 The trained model is capable of classifying the heart sounds with more than 90% accuracy.
 
+```python
+loss, accuracy = classification_model.evaluate(X_test,y_test)
+
+print("Loss: ", loss)
+print("Accuracy: ", accuracy)
+```
+
 * Loss:  0.2620827257633209 
 * Accuracy:  0.9137001037597656
 
