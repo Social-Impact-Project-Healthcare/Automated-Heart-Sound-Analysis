@@ -164,6 +164,6 @@ print("Accuracy: ", accuracy)
 * Loss:  0.2620827257633209 
 * Accuracy:  0.9137001037597656
 
-Thank you and congratulations! You made it. Please do comment any improvements and try things on your spare time. Kaggle Notebook : https://www.kaggle.com/code/asirisirithunga/heart-sound-signal-classification
+Thank you and congratulations! You made it. Please do comment any improvements and try things in your spare time. Kaggle Notebook : https://www.kaggle.com/code/asirisirithunga/heart-sound-signal-classification
 
 Reference : https://www.tensorflow.org/tutorials/audio/transfer_learning_audio
