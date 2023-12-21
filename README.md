@@ -8,9 +8,11 @@ This project focuses on creating a comprehensive resource that delves into the a
 ## Project Objectives
 Educational Content: Our project aims to educate and inform about the automated classification of pathology in heart sounds.
 
-## Methodologies: Explore various methodologies used in heart sound analysis, including artificial neural network-based approaches, support vector machines, hidden Markov model-based approaches, and clustering-based approaches.
+## Methodologies 
+Explore various methodologies used in heart sound analysis, including artificial neural network-based approaches, support vector machines, hidden Markov model-based approaches, and clustering-based approaches.
 
-## Disease Prediction: Develop a solution capable of predicting heart diseases with up to 90% accuracy, including Mitral Stenosis (MS), Mitral Regurgitation (MR), Aortic Stenosis (AS), Aortic Regurgitation (AR), and Mitral Valve Prolapse (MVP).
+## Disease Prediction 
+Develop a solution capable of predicting heart diseases with up to 90% accuracy, including Mitral Stenosis (MS), Mitral Regurgitation (MR), Aortic Stenosis (AS), Aortic Regurgitation (AR), and Mitral Valve Prolapse (MVP).
 
 ## Solution
 Our solution leverages state-of-the-art techniques and methodologies to predict heart diseases accurately. The diseases included in the prediction model are Mitral Stenosis (MS), Mitral Regurgitation (MR), Aortic Stenosis (AS), Aortic Regurgitation (AR), and Mitral Valve Prolapse (MVP). The accuracy of our solution is demonstrated to be up to 90%.
